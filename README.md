@@ -17,10 +17,6 @@ Check out my personal portfolio website, built with **Astro** and **Tailwind CSS
 
 🔗 **[Visit my portfolio](https://mpadilla.netlify.app)**
 
-## 📊 My GitHub Stats
-
-[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=mpadillagarcia&theme=radical&hide=ShaderLab,Jupyter)]
-
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Manuel Padilla](https://www.linkedin.com/in/mpadillagarcia)
