@@ -19,7 +19,7 @@ Check out my personal portfolio website, built with **Astro** and **Tailwind CSS
 
 ## 📊 My GitHub Stats
 
-![Manuel Padilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=mpadillagarcia&theme=radical&hide=ShaderLab,Jupyter)]
 
 ## 📫 How to Reach Me
 
