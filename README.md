@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a Data Engineer with a passion for building sc
 
 - **Programming Languages**: Python, C++, JavaScript
 - **Machine Learning & AI**: Scikit-learn, Keras, TensorFlow, Tslearn, Sktime, OpenCV
-- **Data Engineering & Big Data**: Apache Hive, Apache Spark, Google Cloud Platform (GCP)
+- **Data Engineering & Big Data**: Apache Hive, Apache Spark, Apache Kafka, ETLGoogle Cloud Platform (GCP)
+- **Cloud computing**: Google Cloud Platform (GCP), Azure, AWS
 - **Databases**: PostgreSQL, MongoDB, Cassandra
 - **Web & UI Development**: Astro, Qt
 - **Data Visualization & BI Tools**: Grafana, Power BI, Tableau, Qlik
